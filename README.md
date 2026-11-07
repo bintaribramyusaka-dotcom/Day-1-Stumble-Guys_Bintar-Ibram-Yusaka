@@ -1,4 +1,6 @@
-"# Day-1-Stumble-Guys_Bintar-Ibram-Yusaka" 
+# Day-1-Stumble-Guys_Bintar-Ibram-Yusaka"
+
+## DATA DIRI
 NAMA : BINTAR IBRAM YUSAKA
 PRODI : D4 TEKNIK INFORMATIKA
 KELOMPOK : 14_Stumble Guys
